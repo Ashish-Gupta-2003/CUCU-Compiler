@@ -1,0 +1,36 @@
+********************
+   START   
+********************
+
+
+=> functionDefinition	(returnType: int funcName: main)
+
+    Body_Begin
+******************
+
+newVariables(Type: int, Units: i, k)
+newVariables(Type: char *, Units: j)
+newVariables(Type: int, Units: i)
+newVariables(Type: char *, Units: k)
+funcCall(name: func, parameters: i, j, k, relOp(2,add(2,2)))
+ifCondition(2 == 2)
+    If_Begins
+*******************
+assign(LHS=x,RHS=5)
+******************
+    If_End
+    Else_Begins
+*******************
+assign(LHS=x,RHS=10)
+******************
+    Else_End
+
+return(1)
+
+******************
+    Body_End
+
+
+********************
+   END    
+********************

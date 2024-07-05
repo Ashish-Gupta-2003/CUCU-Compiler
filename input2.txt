@@ -1,0 +1,15 @@
+/* HELLO MY NAME IS ASHISH */
+int main(int argc,char *argv){
+    int i=2+3,char *s;
+    char *s;
+    s=argv[i];
+    func(i,j,k,2==2+2);
+    if(2==2){
+        x=5;
+    }
+    else{
+        x=10;
+    }
+    return 1;
+}
+/* HELLO YOUR NAME IS ASMIT */

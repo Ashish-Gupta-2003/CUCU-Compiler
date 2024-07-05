@@ -1,0 +1,7 @@
+#! /bin/bash
+
+lex cucu.l
+yacc -d cucu.y
+gcc lex.yy.c y.tab.c -lfl -o  cucu
+./cucu input1.txt
+rm a.out *.c *.h

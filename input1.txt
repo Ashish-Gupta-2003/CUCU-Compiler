@@ -1,0 +1,14 @@
+/* HELLO MY NAME IS ASHISH */
+int main(){
+    int i,k;char *j;
+    int i;char *k;
+    func(i,j,k,2==2+2);
+    if(2==2){
+        x=5;
+    }
+    else{
+        x=10;
+    }
+    return 1;
+}
+/* HELLO YOUR NAME IS ASMIT */
